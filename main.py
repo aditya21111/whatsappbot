@@ -24,7 +24,8 @@ print(contact_list)
 response = {
   "hii": "hello there we are unavaiable right now leave your message",
   "how are you": "i am fine 😁",
-  "bhai paisa de de": "nikallllllllll"
+  "bhai paisa de de": "nikallllllllll",
+  "I love you: "nikll l*de"
 }   
 for name in contact_list:
     try:
